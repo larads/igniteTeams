@@ -4,7 +4,7 @@ import { Header } from '@components/Header';
 export function Groups() {
   return (
     <S.Container>
-      <Header/>
+      <Header />
       <S.Title>Groupss!</S.Title>
     </S.Container>
   );
