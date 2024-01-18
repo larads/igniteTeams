@@ -8,9 +8,11 @@ export const Container = styled.View`
 export const Title = styled.Text`
     text-align: center;
     color: #FFFF;
+    font-size: 20px;
 `;
 
 export const SubTitle = styled.Text`
     text-align: center;
     color: #7C7C8A;
+    font-size: 18px;
 `
