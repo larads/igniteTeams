@@ -1,8 +1,6 @@
 import * as S from './styles';
 import logoImg from '@assets/logo.png';
 
-
-
 type Props = {
     showsBackButton?: boolean;
 }
