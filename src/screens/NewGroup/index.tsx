@@ -17,7 +17,10 @@ export function NewGroup(){
                     subTitle='Crie a Turma para adicionar as Peassoas'
                 />
 
-                <Input />
+                <Input 
+                    placeholder='Nome da Turma'
+                    
+                />
 
                 <Button 
                     title='Criar'
