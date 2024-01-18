@@ -16,3 +16,16 @@ export const Form = styled.View`
 
     border-radius: 10px;
 `;
+
+export const HeaderList = styled.View`
+    width: 100%;
+
+    flex-direction: row;
+    align-items: center;
+
+    margin: 32px 0 12px;
+`;
+
+export const NumberOfPlayers = styled.View`
+    
+`;
