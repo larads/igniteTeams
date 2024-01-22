@@ -35,7 +35,9 @@ export function Groups() {
             )}
       />
 
-      <Button title='Criar Nova Turma'/>
+      <Button 
+        title='Criar Nova Turma'
+      />
 
     </S.Container>
   );
